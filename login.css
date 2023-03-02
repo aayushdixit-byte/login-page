@@ -1,0 +1,46 @@
+html,body{
+    text-align: center;
+    background-image:linear-gradient(yellow,green);
+}
+div{
+    padding: 40px 0px;
+    margin-left: 33%;
+    background-image: linear-gradient(white,yellow);
+    text-align: center;
+    width: fit-content;
+}
+input{
+    font-size: x-large;
+    margin:15px 20px ;
+    width: 500px;
+    padding: 5px 8px;
+    color: rgb(46, 46, 217);
+}
+
+button{
+    font-size: large;
+    background-image: linear-gradient(to right,pink,blue);
+    font-weight: 15px;
+    border: none;
+    border-radius: 20px;
+    padding: 5px 10px;
+    width: 400px;
+}
+
+button:hover{
+    font-size: x-large;
+    cursor: pointer;
+}
+
+button:active{
+    font-size: large;
+}
+
+h2{
+    font-size: xx-large;
+    color: gold;
+}
+
+h1{
+    font-size:70px;
+}
